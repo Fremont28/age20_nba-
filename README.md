@@ -9,3 +9,4 @@ Our gradient boosting model is trained on 214 age 20 player seasons since the 20
 
 In terms of VORP, the model really likes Jaren Jackson Jr. next season. As a rookie, analytics rated Jackson Jr. as an above average defender and a bit below average offensive threat. But at just 19, Jackson Jr. has already shown a smooth shooting stroke from beyond the arc and the ability to finish around the rim.
 
+Read Here: https://beyondtheaverage.wordpress.com/2019/07/17/jaren-jackson-jr-and-wendell-carter-jr-are-primed-for-breakout-seasons/
